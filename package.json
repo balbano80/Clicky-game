@@ -1,0 +1,19 @@
+{
+  "name": "clicky-game",
+  "version": "1.0.0",
+  "description": "memory card-style game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balbano80/Clicky-game.git"
+  },
+  "author": "Bryan Albano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balbano80/Clicky-game/issues"
+  },
+  "homepage": "https://github.com/balbano80/Clicky-game#readme"
+}

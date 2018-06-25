@@ -1,0 +1,8 @@
+.main-body{
+    background-color: #FFFF99;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 25px;
+    padding-top: 25px;
+}
